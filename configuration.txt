@@ -1,0 +1,3 @@
+** Software Requirements
+1. Install WAMP Server on windows or LAMP Server on Linux
+2. Configure mysql database
