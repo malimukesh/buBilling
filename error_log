@@ -1,0 +1,54 @@
+[05-Aug-2015 17:46:01 UTC] PHP Fatal error:  Class 'homecontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:40 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:51:51 UTC] PHP Fatal error:  Class 'buBillingcontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:55:17 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 17:55:22 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 17:55:33 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 17:55:46 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 17:55:54 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 17:56:21 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 17:56:47 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 17:57:04 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 18:18:33 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 18:18:43 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 18:19:19 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:19 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:20 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:21 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:22 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:22 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:22 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:23 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:23 UTC] PHP Fatal error:  Call to undefined function mysqli_begin_transaction() in /home/busimplified/public_html/buBilling/model/categorymodel.php on line 29
+[05-Aug-2015 18:19:24 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:24 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:25 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:25 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:25 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:26 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:26 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:27 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:27 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:28 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:28 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:29 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:29 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:30 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:30 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:30 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:31 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:32 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:32 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:33 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:33 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:34 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:34 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:34 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
+[05-Aug-2015 18:19:35 UTC] PHP Fatal error:  Class 'assetscontroller' not found in /home/busimplified/public_html/buBilling/utility/route.php on line 28
